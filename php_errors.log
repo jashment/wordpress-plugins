@@ -1,0 +1,60 @@
+[15-May-2019 15:29:18 UTC] PHP Fatal error:  Call to undefined function definded() in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/facebook-footer-link.php on line 11
+[15-May-2019 15:29:18 UTC] PHP Stack trace:
+[15-May-2019 15:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:29:18 UTC] PHP   2. activate_plugin() /home/ubuntu/workspace/wp-admin/plugins.php:42
+[15-May-2019 15:29:18 UTC] PHP   3. include_once() /home/ubuntu/workspace/wp-admin/includes/plugin.php:560
+[15-May-2019 15:29:18 UTC] PHP Fatal error:  Call to undefined function definded() in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/facebook-footer-link.php on line 11
+[15-May-2019 15:29:18 UTC] PHP Stack trace:
+[15-May-2019 15:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:29:18 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-May-2019 15:29:18 UTC] PHP   3. include() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1882
+[15-May-2019 15:29:18 UTC] PHP Fatal error:  Call to undefined function definded() in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/facebook-footer-link.php on line 11
+[15-May-2019 15:29:18 UTC] PHP Stack trace:
+[15-May-2019 15:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:29:18 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-May-2019 15:29:18 UTC] PHP   3. include() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1882
+[15-May-2019 15:29:41 UTC] PHP Fatal error:  Call to undefined function definded() in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/facebook-footer-link.php on line 11
+[15-May-2019 15:29:41 UTC] PHP Stack trace:
+[15-May-2019 15:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:29:41 UTC] PHP   2. activate_plugin() /home/ubuntu/workspace/wp-admin/plugins.php:42
+[15-May-2019 15:29:41 UTC] PHP   3. include_once() /home/ubuntu/workspace/wp-admin/includes/plugin.php:560
+[15-May-2019 15:29:41 UTC] PHP Fatal error:  Call to undefined function definded() in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/facebook-footer-link.php on line 11
+[15-May-2019 15:29:41 UTC] PHP Stack trace:
+[15-May-2019 15:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:29:41 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-May-2019 15:29:41 UTC] PHP   3. include() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1882
+[15-May-2019 15:29:41 UTC] PHP Fatal error:  Call to undefined function definded() in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/facebook-footer-link.php on line 11
+[15-May-2019 15:29:41 UTC] PHP Stack trace:
+[15-May-2019 15:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:29:41 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-May-2019 15:29:41 UTC] PHP   3. include() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1882
+[15-May-2019 15:30:58 UTC] PHP Fatal error:  Call to undefined function definded() in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/facebook-footer-link.php on line 11
+[15-May-2019 15:30:58 UTC] PHP Stack trace:
+[15-May-2019 15:30:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:30:58 UTC] PHP   2. activate_plugin() /home/ubuntu/workspace/wp-admin/plugins.php:42
+[15-May-2019 15:30:58 UTC] PHP   3. include_once() /home/ubuntu/workspace/wp-admin/includes/plugin.php:560
+[15-May-2019 15:30:58 UTC] PHP Fatal error:  Call to undefined function definded() in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/facebook-footer-link.php on line 11
+[15-May-2019 15:30:58 UTC] PHP Stack trace:
+[15-May-2019 15:30:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:30:58 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-May-2019 15:30:58 UTC] PHP   3. include() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1882
+[15-May-2019 15:30:58 UTC] PHP Fatal error:  Call to undefined function definded() in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/facebook-footer-link.php on line 11
+[15-May-2019 15:30:58 UTC] PHP Stack trace:
+[15-May-2019 15:30:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:30:58 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-May-2019 15:30:58 UTC] PHP   3. include() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1882
+[15-May-2019 15:31:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/includes/facebook-footer-link-scripts.php on line 2
+[15-May-2019 15:31:38 UTC] PHP Stack trace:
+[15-May-2019 15:31:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:31:38 UTC] PHP   2. activate_plugin() /home/ubuntu/workspace/wp-admin/plugins.php:42
+[15-May-2019 15:31:38 UTC] PHP   3. include_once() /home/ubuntu/workspace/wp-admin/includes/plugin.php:560
+[15-May-2019 15:31:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/includes/facebook-footer-link-scripts.php on line 2
+[15-May-2019 15:31:39 UTC] PHP Stack trace:
+[15-May-2019 15:31:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:31:39 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-May-2019 15:31:39 UTC] PHP   3. include() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1882
+[15-May-2019 15:31:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/plugins/Facebook-Footer-Link/includes/facebook-footer-link-scripts.php on line 2
+[15-May-2019 15:31:39 UTC] PHP Stack trace:
+[15-May-2019 15:31:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/plugins.php:0
+[15-May-2019 15:31:39 UTC] PHP   2. plugin_sandbox_scrape() /home/ubuntu/workspace/wp-admin/plugins.php:164
+[15-May-2019 15:31:39 UTC] PHP   3. include() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1882
